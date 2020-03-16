@@ -12,13 +12,16 @@ h1 { color: black;
 	color: black;
 	background-color: #ccaa66;
 	text-align: center;
+	padding-top: 0.5cm;
+	padding-bottom: 0.5cm;
 }
 
-.centralize {
+.menulist {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
 }
+
 
 .information {
 	margin-left: auto;
@@ -41,3 +44,8 @@ ul li:first-child {
 ul li:hover {
 	color: purple;
 }
+
+dl dt {
+	color: black;
+}
+
