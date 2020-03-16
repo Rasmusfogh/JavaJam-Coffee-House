@@ -1,0 +1,43 @@
+﻿body { color: #ccaa66;
+	background-color: #ffffcc;
+}
+
+h1 { color: black;
+	font-family: Verdana;
+}
+
+#h1style {
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+	background-color: #ccaa66;
+	text-align: center;
+}
+
+.centralize {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.information {
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+	background-color: #ccaa66;
+	font-style: italic;
+	font-size: small;
+	text-align: center;
+}
+
+a:link {color: blue}
+a:visited {color: purple}
+a:hover {color: aqua}
+
+ul li:first-child {
+	color: red;
+}
+
+ul li:hover {
+	color: purple;
+}
